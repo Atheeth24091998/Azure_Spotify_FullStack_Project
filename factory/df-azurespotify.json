@@ -1,0 +1,9 @@
+{
+	"name": "df-azurespotify",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fdb9cdac-4e4b-4467-80e9-c56317d245b1",
+		"tenantId": "316c99b3-41f9-4d6e-8b11-91c4881c5f76"
+	}
+}
